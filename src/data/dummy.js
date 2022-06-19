@@ -621,7 +621,7 @@ export const earningData = [
     title: 'Customers',
     iconColor: '#03C9D7',
     iconBg: '#E5FAFB',
-    pcColor: 'red-600',
+    pcColor: 'red-500',
   },
   {
     icon: <BsBoxSeam />,
@@ -630,7 +630,7 @@ export const earningData = [
     title: 'Products',
     iconColor: 'rgb(255, 244, 229)',
     iconBg: 'rgb(254, 201, 15)',
-    pcColor: 'green-600',
+    pcColor: 'green-500',
   },
   {
     icon: <FiBarChart />,
@@ -640,7 +640,7 @@ export const earningData = [
     iconColor: 'rgb(228, 106, 118)',
     iconBg: 'rgb(255, 244, 229)',
 
-    pcColor: 'green-600',
+    pcColor: 'green-500',
   },
   {
     icon: <HiOutlineRefresh />,
@@ -649,7 +649,7 @@ export const earningData = [
     title: 'Refunds',
     iconColor: 'rgb(0, 194, 146)',
     iconBg: 'rgb(235, 250, 242)',
-    pcColor: 'red-600',
+    pcColor: 'red-500',
   },
 ];
 
@@ -661,7 +661,7 @@ export const recentTransactions = [
     desc: 'Money Added',
     iconColor: '#03C9D7',
     iconBg: '#E5FAFB',
-    pcColor: 'green-600',
+    pcColor: 'green-500',
   },
   {
     icon: <BsShield />,
@@ -670,7 +670,7 @@ export const recentTransactions = [
     title: 'Wallet',
     iconColor: 'rgb(0, 194, 146)',
     iconBg: 'rgb(235, 250, 242)',
-    pcColor: 'red-600',
+    pcColor: 'red-500',
   },
   {
     icon: <FiCreditCard />,
@@ -680,7 +680,7 @@ export const recentTransactions = [
     iconColor: 'rgb(255, 244, 229)',
     iconBg: 'rgb(254, 201, 15)',
 
-    pcColor: 'green-600',
+    pcColor: 'green-500',
   },
   {
     icon: <TiTick />,
@@ -690,7 +690,7 @@ export const recentTransactions = [
 
     iconColor: 'rgb(228, 106, 118)',
     iconBg: 'rgb(255, 244, 229)',
-    pcColor: 'green-600',
+    pcColor: 'green-500',
   },
   {
     icon: <BsCurrencyDollar />,
@@ -700,7 +700,7 @@ export const recentTransactions = [
     desc: 'Payment Sent',
     iconColor: '#03C9D7',
     iconBg: '#E5FAFB',
-    pcColor: 'red-600',
+    pcColor: 'red-500',
   },
 ];
 
@@ -711,7 +711,7 @@ export const weeklyStats = [
     title: 'Top Sales',
     desc: 'Johnathan Doe',
     iconBg: '#FB9678',
-    pcColor: 'red-600',
+    pcColor: 'red-500',
   },
   {
     icon: <FiStar />,
@@ -719,7 +719,7 @@ export const weeklyStats = [
     title: 'Best Seller',
     desc: 'MaterialPro Admin',
     iconBg: 'rgb(254, 201, 15)',
-    pcColor: 'red-600',
+    pcColor: 'red-500',
   },
   {
     icon: <BsChatLeft />,
@@ -727,7 +727,7 @@ export const weeklyStats = [
     title: 'Most Commented',
     desc: 'Ample Admin',
     iconBg: '#00C292',
-    pcColor: 'green-600',
+    pcColor: 'green-500',
   },
 ];
 
