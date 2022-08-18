@@ -12,7 +12,7 @@ const Ecommerce = () => {
   return (
     <div className='mt-12'>
       <div className='flex flex-wrap justify-center'> {/*  lg:flex-nowrap  */}
-        <div className='bg-white dark:text-gray-200 dark:bg-secondary-dark-bg h-44 rounded-xl w-full p-8 pt-9 m-3 bg-hero-pattern bg-no-repeat bg-cover bg-center'>
+        <div className='mx-24 bg-white dark:text-gray-200 dark:bg-secondary-dark-bg h-44 rounded-xl w-full p-8 pt-9 m-3 bg-hero-pattern bg-no-repeat bg-cover bg-center'>
           <div className='flex justify-between items-center' >
             <p className='font-bold text-gray-400' >
               Earnings
@@ -69,7 +69,7 @@ const Ecommerce = () => {
               </div>
             </div>
             <div className='mt-10 flex gap-10 flex-wrap justify-center'>
-              <div className='border-r-1 border-color m-4 pr-10'>
+              <div className=' border-color m-4 pr-10'>
                 <div>
                 <p>
                   <span className='text-3xl font-semibold'>
